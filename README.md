@@ -74,7 +74,7 @@ This type of compliance is earned when the application, program, or service can 
 |`pt`|pint||`1.0  pt` = `473.176 mL`|
 |`qt`|quart||`1.0  qt` = `946.353 mL`|
 |`l`|liter||`1.0  L` = `1000 mL`|
-|`gal`|galon||`1.0  gal` = `3785.41 mL`|
+|`gal`|gallon||`1.0  gal` = `3785.41 mL`|
 
 ### temperature table
 
