@@ -49,7 +49,7 @@ This type of compliance is earned when the application, program, or service can 
 |`name`|true|text|string|the human readable name|`cascade`, `mt. hood`, `saaz`|
 |`alpha`|true|number|float|the percentage of alpha acid|`0.082` => `8.2%`, `0.12` => `12%`, `0.045` => `4.5%`|
 |`quantity`|true|number|float|the quantity of required for the recipe|`1.2`, `0.8`, `5.7`
-|`unit`|true|text|string|refer to the *symbol* on the [mass table](#mass-table) in the [Appendix](#Appendix)|`kg`, `g`, `lb`|
+|`unit`|true|text|string|refer to the *symbol* on the [mass table](#mass-table) in the [Appendix](#appendix)|`kg`, `g`, `lb`|
 
 ## Appendix
 
