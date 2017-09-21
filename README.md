@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="beerlang.io"><img src="docs/img/beerlang-file@3x.png" alt="beerlang" width="200"></a>
+  <a href="http://brewboy.wbit.io"><img src="docs/img/beerlang-file@3x.png" alt="beerlang" width="200"></a>
   <br>
 </h1>
 
