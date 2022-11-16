@@ -50,11 +50,12 @@ This type of compliance is earned when the application, program, or service can 
 |`type`|false|string||the human readable type of use for these hops|`bittering`, `aroma`, `bittering and aroma`|`bittering`, `aroma`, `bittering and aroma`|
 |`form`|false|string||the form of the hops|`pellet`, `plug`, `leaf`|`pellet`, `plug`, `leaf`|
 |`alpha`|true|number|float|the percentage of alpha acid|`^(\d*\.\d+)$`|`0.082` => `8.2%`, `0.12` => `12%`, `0.045` => `4.5%`|
+|`beta`|false|number|float|the percentage of beta acid|`^(\d*\.\d+)$`|`0.082` => `8.2%`, `0.12` => `12%`, `0.045` => `4.5%`|
 |`quantity`|true|number|float|the quantity of required for the recipe|`^(\d*\.\d+)$`|`1.2`, `0.8`, `5.7`
-|`qty_unit`|true|string||refer to the *symbol* on the [mass table](#mass-table) in the [Appendix](#appendix)|[mass table](#mass-table)|`kg`, `g`, `lb`|
+|`quantity_unit`|true|string||refer to the *symbol* on the [mass table](#mass-table) in the [Appendix](#appendix)|[mass table](#mass-table)|`kg`, `g`, `lb`|
 |`usage`|true|string||refer to the *name* on the [hop usage table](#hop-usage-table) in the [Appendix](#appendix)|`boil`, `dry hop`, `mash`|`boil`, `dry hop`, `mash`|
 |`duration`|true|number|float|the duration of the usage|`^(\d*\.\d+)$`|`60.0`, `3600.0`, `1.0`|
-|`dur_unit`|true|string||refer to the *symbol* on the [duration table](#duration-table) in the [Appendix](#appendix)|[duration table](#duration-table)|`sec`, `min`, `hr`|
+|`duration_unit`|true|string||refer to the *symbol* on the [duration table](#duration-table) in the [Appendix](#appendix)|[duration table](#duration-table)|`sec`, `min`, `hr`|
 
 ## Appendix
 
