@@ -1,0 +1,44 @@
+{
+    "general": {
+
+    },
+    "fermentables": [
+        {
+            "amount": 0.0,
+            "unit": "",
+            "fermentable": "",
+            "ppg": 0,
+            "ºL": 0.0
+        }
+    ],
+    "hops": [
+        {
+            "name": "",
+            "type": "",
+            "form": "",
+            "quantity": 0.0,
+            "quantity_unit": "",
+            "usage": "",
+            "duration": 0.0,
+            "duration_unit": ""
+        }
+    ],
+    "mash": {
+
+    },
+    "additions": {
+
+    },
+    "yeast": {
+
+    },
+    "priming": {
+
+    },
+    "water_profile": {
+
+    },
+    "notes": {
+
+    }
+}
